@@ -1,0 +1,163 @@
+{
+  "slug": "multi-tenant-crm-api",
+  "title": "Multi-Tenant CRM API",
+  "category": "dotnet-api",
+  "difficulty": "large",
+  "period": "2026-Q3",
+  "estimatedCommits": 24,
+  "description": "CRM API that supports multiple companies.",
+  "features": [
+    "Tenant management",
+    "Company records",
+    "Contact records",
+    "Lead management",
+    "Opportunity management",
+    "Activity history"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for contact records",
+      "commitMessage": "feat: add validation rules for contact records"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for lead management",
+      "commitMessage": "feat: add reporting view for lead management"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for opportunity management",
+      "commitMessage": "feat: add export or integration support for opportunity management"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for activity history",
+      "commitMessage": "refactor: improve service boundaries for activity history"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for tenant management",
+      "commitMessage": "fix: handle edge cases for tenant management"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for company records",
+      "commitMessage": "perf: improve query or request performance for company records"
+    },
+    {
+      "number": 15,
+      "type": "test",
+      "title": "add integration tests for contact records",
+      "commitMessage": "test: add integration tests for contact records"
+    },
+    {
+      "number": 16,
+      "type": "docs",
+      "title": "document architecture decisions for lead management",
+      "commitMessage": "docs: document architecture decisions for lead management"
+    },
+    {
+      "number": 17,
+      "type": "chore",
+      "title": "add sample data for opportunity management",
+      "commitMessage": "chore: add sample data for opportunity management"
+    },
+    {
+      "number": 18,
+      "type": "feat",
+      "title": "add audit logging for activity history",
+      "commitMessage": "feat: add audit logging for activity history"
+    },
+    {
+      "number": 19,
+      "type": "feat",
+      "title": "add notification flow for tenant management",
+      "commitMessage": "feat: add notification flow for tenant management"
+    },
+    {
+      "number": 20,
+      "type": "test",
+      "title": "add regression coverage for company records",
+      "commitMessage": "test: add regression coverage for company records"
+    },
+    {
+      "number": 21,
+      "type": "ci",
+      "title": "publish quality report for contact records",
+      "commitMessage": "ci: publish quality report for contact records"
+    },
+    {
+      "number": 22,
+      "type": "docs",
+      "title": "add screenshots and roadmap for lead management",
+      "commitMessage": "docs: add screenshots and roadmap for lead management"
+    },
+    {
+      "number": 23,
+      "type": "chore",
+      "title": "prepare release notes for opportunity management",
+      "commitMessage": "chore: prepare release notes for opportunity management"
+    },
+    {
+      "number": 24,
+      "type": "feat",
+      "title": "add advanced dashboard metrics for activity history",
+      "commitMessage": "feat: add advanced dashboard metrics for activity history"
+    }
+  ]
+}
