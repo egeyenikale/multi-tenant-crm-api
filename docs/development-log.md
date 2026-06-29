@@ -48,3 +48,7 @@ feat: add export or integration support for opportunity management
 
 refactor: improve service boundaries for activity history
 
+## 2026-06-29 - Stage 13
+
+fix: handle edge cases for tenant management
+
