@@ -40,3 +40,7 @@ feat: add validation rules for contact records
 
 feat: add reporting view for lead management
 
+## 2026-06-29 - Stage 11
+
+feat: add export or integration support for opportunity management
+
