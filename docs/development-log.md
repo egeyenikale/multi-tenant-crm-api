@@ -56,3 +56,7 @@ fix: handle edge cases for tenant management
 
 perf: improve query or request performance for company records
 
+## 2026-06-29 - Stage 15
+
+test: add integration tests for contact records
+
