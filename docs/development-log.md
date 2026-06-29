@@ -44,3 +44,7 @@ feat: add reporting view for lead management
 
 feat: add export or integration support for opportunity management
 
+## 2026-06-29 - Stage 12
+
+refactor: improve service boundaries for activity history
+
