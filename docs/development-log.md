@@ -52,3 +52,7 @@ refactor: improve service boundaries for activity history
 
 fix: handle edge cases for tenant management
 
+## 2026-06-29 - Stage 14
+
+perf: improve query or request performance for company records
+
