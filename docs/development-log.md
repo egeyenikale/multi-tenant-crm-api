@@ -64,3 +64,7 @@ test: add integration tests for contact records
 
 docs: document architecture decisions for lead management
 
+## 2026-07-02 - Stage 17
+
+chore: add sample data for opportunity management
+

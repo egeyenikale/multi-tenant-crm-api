@@ -78,3 +78,8 @@ export const stage16 = {
   "date": "2026-07-02",
   "message": "docs: document architecture decisions for lead management"
 };
+
+export const stage17 = {
+  "date": "2026-07-02",
+  "message": "chore: add sample data for opportunity management"
+};
