@@ -60,3 +60,7 @@ perf: improve query or request performance for company records
 
 test: add integration tests for contact records
 
+## 2026-07-02 - Stage 16
+
+docs: document architecture decisions for lead management
+

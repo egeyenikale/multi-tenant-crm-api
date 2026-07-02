@@ -73,3 +73,8 @@ export const stage15 = {
   "date": "2026-06-29",
   "message": "test: add integration tests for contact records"
 };
+
+export const stage16 = {
+  "date": "2026-07-02",
+  "message": "docs: document architecture decisions for lead management"
+};
