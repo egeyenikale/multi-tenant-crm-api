@@ -76,3 +76,7 @@ feat: add audit logging for activity history
 
 feat: add notification flow for tenant management
 
+## 2026-07-02 - Stage 20
+
+test: add regression coverage for company records
+
