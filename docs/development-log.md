@@ -68,3 +68,7 @@ docs: document architecture decisions for lead management
 
 chore: add sample data for opportunity management
 
+## 2026-07-02 - Stage 18
+
+feat: add audit logging for activity history
+
