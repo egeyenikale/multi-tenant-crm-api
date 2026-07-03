@@ -103,3 +103,8 @@ export const stage21 = {
   "date": "2026-07-03",
   "message": "ci: publish quality report for contact records"
 };
+
+export const stage22 = {
+  "date": "2026-07-03",
+  "message": "docs: add screenshots and roadmap for lead management"
+};

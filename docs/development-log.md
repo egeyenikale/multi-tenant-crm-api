@@ -84,3 +84,7 @@ test: add regression coverage for company records
 
 ci: publish quality report for contact records
 
+## 2026-07-03 - Stage 22
+
+docs: add screenshots and roadmap for lead management
+
