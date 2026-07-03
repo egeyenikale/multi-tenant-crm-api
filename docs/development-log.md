@@ -80,3 +80,7 @@ feat: add notification flow for tenant management
 
 test: add regression coverage for company records
 
+## 2026-07-03 - Stage 21
+
+ci: publish quality report for contact records
+
