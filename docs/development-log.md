@@ -92,3 +92,7 @@ docs: add screenshots and roadmap for lead management
 
 chore: prepare release notes for opportunity management
 
+## 2026-07-03 - Stage 24
+
+feat: add advanced dashboard metrics for activity history
+
