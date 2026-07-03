@@ -88,3 +88,7 @@ ci: publish quality report for contact records
 
 docs: add screenshots and roadmap for lead management
 
+## 2026-07-03 - Stage 23
+
+chore: prepare release notes for opportunity management
+

@@ -108,3 +108,8 @@ export const stage22 = {
   "date": "2026-07-03",
   "message": "docs: add screenshots and roadmap for lead management"
 };
+
+export const stage23 = {
+  "date": "2026-07-03",
+  "message": "chore: prepare release notes for opportunity management"
+};
